@@ -8,12 +8,11 @@
 Next gen fritzbox tool!
 
 - Inspired by [fritzconnection](https://pypi.org/project/fritzconnection/)
-- Please note: not even Beta yet. Please stand by
+- Please note: not even Beta yet. Please stand by.
 
 ## Features
 
-- Fully typed with annotations and checked with mypy, [PEP561 compatible](https://www.python.org/dev/peps/pep-0561/)
-- Add yours!
+- Fully typed with annotations, linted with black and checked with mypy, [PEP561 compatible](https://www.python.org/dev/peps/pep-0561/)
 
 
 ## Installation
@@ -22,13 +21,16 @@ Next gen fritzbox tool!
 pip install pyfritz
 ```
 
-
 ## Example
 
 ```python
 import pyfritz
 
 ```
+
+## Source
+
+[github](https://github.com/cruisen/pyfritz)
 
 ## License
 
